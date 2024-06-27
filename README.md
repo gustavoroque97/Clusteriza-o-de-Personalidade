@@ -22,8 +22,7 @@ Os passos do projeto foram:
 
 - Clusterização com KMeans: Implementei o algoritmo de clusterização KMeans para categorizar indivíduos em grupos distintos com base em seus traços de personalidade.
 
-
-
+- Análise de Componentes Principais, a fim de visualizar a clusterização obtida.
 
 
 No final do projeto, eu mesmo fiz o teste de personalidade Big Five! Utilizando o poder preditivo do KMeans, fui colocado em um cluster específico com base em minhas respostas, proporcionando insights valiosos sobre meu próprio perfil de personalidade.
